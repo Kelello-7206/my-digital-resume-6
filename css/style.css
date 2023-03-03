@@ -139,6 +139,7 @@ article {
 
 a:hover {
     color: var(--yellow);
+    /*links changes color when the cursor is on them*/
 }
 
 footer {
